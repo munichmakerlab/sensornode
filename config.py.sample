@@ -8,3 +8,4 @@ broker = {
 topic_prefix = "mumalab/room/sensors/"
 
 serial_port = "/dev/ttyACM0"
+port = 21
